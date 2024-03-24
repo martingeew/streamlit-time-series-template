@@ -1,3 +1,4 @@
 import streamlit as st
 
-st.write('Welcome to Streamlit')
+# Main title for the dashboard
+st.title("New Zealand Migration Trends")
